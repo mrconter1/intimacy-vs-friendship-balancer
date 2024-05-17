@@ -42,5 +42,3 @@ Create an HTML webpage featuring a centered grid of input squares. The tool allo
 
 6. **Additional Details:**
    - The interface should be intuitive and user-friendly.
-
-Let me know if this version meets your requirements!
